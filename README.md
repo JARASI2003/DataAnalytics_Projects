@@ -3,22 +3,22 @@ A comprehensive collection of data analytics projects, tools, and insights for d
 
 This repository covers:
 
-Data Exploration: Exploratory Data Analysis (EDA) notebooks and scripts to understand and preprocess datasets effectively.
+**Data Exploration**: Exploratory Data Analysis (EDA) notebooks and scripts to understand and preprocess datasets effectively.
 
-Machine Learning Models: Implementations of machine learning algorithms and predictive models for various applications.
+**Machine Learning Models**: Implementations of machine learning algorithms and predictive models for various applications.
 
-Data Visualizations: Interactive and informative data visualizations created using popular libraries like Matplotlib, Seaborn, and Plotly.
+**Data Visualizations**: Interactive and informative data visualizations created using popular libraries like Matplotlib, Seaborn, and Plotly.
 
-Statistical Analysis: Statistical tests, hypothesis testing, and descriptive statistics for data-driven decision-making.
+**Statistical Analysis**: Statistical tests, hypothesis testing, and descriptive statistics for data-driven decision-making.
 
-Big Data Analytics: Scalable data analysis using technologies such as Apache Spark and Hadoop.
+**Big Data Analytics**: Scalable data analysis using technologies such as Apache Spark and Hadoop.
 
-Natural Language Processing: Text analytics and sentiment analysis for textual data.
+**Natural Language Processing**: Text analytics and sentiment analysis for textual data.
 
-Time Series Analysis: Techniques for forecasting and trend analysis.
+**Time Series Analysis**: Techniques for forecasting and trend analysis.
 
-Data Cleaning and Preprocessing: Best practices and scripts for data cleaning and feature engineering.
+**Data Cleaning and Preprocessing**: Best practices and scripts for data cleaning and feature engineering.
 
-Data Sources: Curated datasets and data sources for experimentation and analysis.
+**Data Sources**: Curated datasets and data sources for experimentation and analysis.
 
-Feel free to explore, contribute, and collaborate on projects aimed at harnessing the p
+**Feel free to explore, contribute, and collaborate on projects aimed at harnessing the p**
